@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <meta name="description" content = "Practica de HTML 5 "/>
+                <meta name ="keywords" content= "HTML5, CSS3, Javascript",/>
+                <title>Practica 2</title>               
+        </head>
+        <body>
+              <center>
+                    <h1>PRACTICA 2</h1>
+              </center>
+                   <div>
+                      <form>
+                           <center>
+                                <fieldset style="width:500px;">
+                                <legend>Laboral</legend><br/>
+                                       <label for="txtCodigo">C&oacute;digo</label><br/>
+                                       <input type="text" size="40" maxlength="255" id="txtCodigo" name="codigo"/>
+                                       <br/>
+                                       <br/>
+                                </fieldset>
+                          <center/>
+                      </form>
+        </body> 
+</html>
